@@ -16,3 +16,5 @@ Random food menu then show how to cook or delivery channel for someone who is bo
 - Java
 - Spring Boot
 - Cloud Firestore
+- Firebase Auth.
+- Firebase Storage
