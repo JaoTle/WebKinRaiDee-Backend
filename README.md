@@ -1,22 +1,18 @@
-**Kin Rai Dee**
+# Kin-rai-dee Back-end
+(Original reposity work with team : https://github.com/zxTle/Kin-Rai-Dee-back )
+---
 
+## Random food menu
+Random food menu then show how to cook or delivery channel for someone who is bored and doesn't know what to eat.
 
-โปรเจค Kin rai dee คือเว็บไซต์สำหรับสุ่มอาหารเพื่อคนที่ไม่รู้ว่าในวันนี้นั้นอยากจะทานอาหารเมนูอะไรดี
-โดยในเว็บใซต์เมื่อผู้ใช้ได้ทำการกดสุ่มอาหารแล้ว จะมีการแสดงทั้งวัตถุดิบและวิธีทำ สำหรับผู้ที่อยากจะประกอบ
-อาหารขึ้นเองอีกด้วย
+## Responsible
+- Connect with Cloud Firestore
+- Create Data Model
+- CRUD API
 
-สามารถดูต้นฉบับ github และ การ commit code แต่ละครั้งได้ที่ : https://github.com/zxTle/Kin-Rai-Dee-back 
+---
 
-**สมาชิก** ได้แก่ 
- 
-1.รหัสนิสิต 6210401244 ชื่อ นางสาวชุติกาญจน์ มงคลธนโชค (รับผิดชอบ Backend ทั้งหมด และ Frontend บางสวน)
-
-2.รหัสนิสิต 6210402518 ชื่อ นางสาวอรรวินท์ หีมสุหรี
-
-3.รหัสนิสิต 6210406670 ชื่อ นางสาววริศรา ตันวิริยะวรกุล
-
-4.รหัสนิสิต 6210407978 ชื่อ นางสาวปารมี รัตนกฤษณานนท์
-
-**คำแนะนำในการ install และ run โปรเจค**
-
-เมื่อได้ทำการ clone โปรเจคมาแล้ว ควรทำการ reload pom.xml ก่อน run โปรเจค
+## Developed using
+- Java
+- Spring Boot
+- Cloud Firestore
